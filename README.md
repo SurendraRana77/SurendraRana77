@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 About Me</h1>
 
 <p align="center">
-Hi, I'm Surendra Rana, a third year Computer Science & Engineering student and aspiring Software Development Engineer passionate about building practical solutions with technology. I’m exploring Full-Stack Development, AI, Data Science, Blockchain, and Flutter Development, while continuously learning, building projects, and improving my problem-solving skills.
+Hi I'm Surendra Kumar Rana. Currently pursuing my bachelor's degree in Computer Science and Engineering. I'm really interested in technology and problem solving. Right now, focusing on improving my communication skills and programming. I'm always looking for opportunity to learn something new and grow personally and professionally.
 </p>
 
 ---
